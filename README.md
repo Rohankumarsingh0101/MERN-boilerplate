@@ -321,12 +321,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Mongoose](https://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 
-## 📞 Support
-
-If you have any questions or run into issues, please:
-1. Check the existing issues on GitHub
-2. Create a new issue with detailed information
-3. Join our community discussions
 
 ---
 
